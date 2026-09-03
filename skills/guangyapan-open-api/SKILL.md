@@ -1,10 +1,10 @@
 ---
 name: guangyapan-open-api
 description: >
-  Integrate and troubleshoot the 光鸭盘 (Guangyapan) third-party Open API.
-  Use for Device Code or Web OAuth 2.0 + PKCE authorization, token refresh,
-  signed user/file requests, temporary download URLs, error codes, and rate
-  limits. Do not use for unrelated internal 光鸭盘 APIs or generic OAuth work.
+  Integrate and troubleshoot third-party applications using the Guangyapan Open
+  API. Use for user authorization through Device Code or OAuth 2.0 + PKCE,
+  access-token refresh, authorized user and file access, temporary download
+  URLs, error handling, and rate limits.
 ---
 
 # Integrate Guangyapan Open API
