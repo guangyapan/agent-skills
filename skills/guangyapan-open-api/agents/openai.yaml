@@ -1,0 +1,4 @@
+interface:
+  display_name: "光鸭盘开放 API"
+  short_description: "实现光鸭盘第三方授权、文件浏览、点播下载与用户信息接入"
+  default_prompt: "Use $guangyapan-open-api to implement a secure third-party integration with the Guangyapan Open API."
