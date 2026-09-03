@@ -1,0 +1,4 @@
+interface:
+  display_name: "光鸭盘 TOKEN 上传"
+  short_description: "接入光鸭盘开发者凭证、预上传审核与 TOKEN 跨账号传输"
+  default_prompt: "Use $guangyapan-token-transfer to implement a secure Guangyapan TOKEN file-transfer integration."
